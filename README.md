@@ -22,7 +22,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+</p>
+
+</br>
+</br>
+</br>
+
+<p align="center">
+ <a href="#" alt="Alireza's github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezara94&layout=compact" />
+ </a>
 </p>
 
 <!-- <p align="center">
@@ -30,9 +41,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlirezaRa94&theme=radical&show_icons=true&rank_icon=github" />
  </a>
 </p>
-
-<p align="center">
- <a href="#" alt="Alireza's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRa94&hide_progress=true" />
- </a>
-</p> -->
+ -->

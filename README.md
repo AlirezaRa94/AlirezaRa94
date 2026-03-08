@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
 </p>
 
-</br>
+<!-- </br>
 </br>
 </br>
 
@@ -34,7 +34,7 @@
  <a href="#" alt="Alireza's github stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezara94&layout=compact" />
  </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
  <a href="#" alt="Alireza's github stats">
